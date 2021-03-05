@@ -1,4 +1,4 @@
-### Hi there 👋
+i am so Cool and Amazing
 
 <!--
 **RudRecciah/RudRecciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
