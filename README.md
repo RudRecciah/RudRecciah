@@ -6,5 +6,6 @@ I have experience with:
 * JS
 * Java
 * Python
+* Svelte
 
 Check out my [portfolio](https://rudrecciah.dev).
